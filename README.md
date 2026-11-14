@@ -1,6 +1,4 @@
 # Amazon Sales Analysis
-(In progress)
-
 
 > **Status: in progress.** The exploratory analysis and customer segmentation are done; a predictive model and a KPI dashboard are planned (see the roadmap).
 
